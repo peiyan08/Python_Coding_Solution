@@ -22,6 +22,8 @@ Knowledge points:
 it stays off in the result. Note that XOR-ing a 
 number with itself will always result in 0. 
 Ex: 1^4 = 0001 ^ 0100 = 0101 = 5
+3.Good refer point at https://www.codecademy.com/en/courses/python-intermediate-en-KE1UJ/1/4
 """
+
 
 
